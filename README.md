@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FellowNewLearner
-- 👀 I’m interested in tech, JDM cars and learning stuff.
+- 👀 I’m interested in JDM cars and learning stuff andd java, C.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edeniz7793@gmail.com
